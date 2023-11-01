@@ -1,0 +1,49 @@
+body {
+    background-color: #f3e7db;
+    margin: 60px;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    margin-top: 50px;
+}
+
+li {
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+
+/* Tipografia */
+h1,
+h2,
+h3 {
+    font-family: 'Arial', sans-serif;
+    /* Una fuente limpia y fácil de leer */
+    color: #333333;
+    /* Un color de texto oscuro */
+}
+
+p {
+    font-family: 'Georgia', serif;
+    /* Una fuente un poco más elegante para el cuerpo del texto */
+    color: #555555;
+    /* Un color de texto un poco más claro */
+    line-height: 1.6;
+    /* Aumenta el espacio entre líneas para mejorar la legibilidad */
+}
+
+img{
+    width: 100px ;
+    
+}
